@@ -1,0 +1,5 @@
+Link for the database used -
+
+http://jmcauley.ucsd.edu/data/amazon/
+
+In this download the Movies and TV dataset (5-core).
